@@ -1,12 +1,9 @@
 <div align="center">
 
-<img width="100%" src="./assets/header.svg" alt="Monish Rajagopal Header"
-/assets/header.svg
-/assets/footer.svg/>
 
 # Monish Rajagopal
 
-### Senior Program Manager • AI Delivery Lead • Enterprise Transformation
+### Product and Program Leader • AI Delivery Lead • Enterprise Transformation
 
 ![Experience](https://img.shields.io/badge/13%2B_Years-Enterprise_Delivery-success?style=for-the-badge)
 ![CSM](https://img.shields.io/badge/CSM-Certified-blue?style=for-the-badge)
@@ -26,7 +23,7 @@
 
 Technology Program & Delivery Leader with **13+ years of experience** delivering enterprise-scale transformations across **AI, GenAI, SAP, Contact Centre, eCommerce, POS, Cloud and DevOps ecosystems**.
 
-Experienced leading **$20M+ transformation programs**, managing **100+ cross-functional resources**, driving AI adoption, and delivering measurable business outcomes through Agile and SAFe delivery models.
+Experienced in leading **$20M+ transformation programs**, managing **100+ cross-functional resources**, driving AI adoption, and delivering measurable business outcomes through Agile and SAFe delivery models.
 
 ---
 
