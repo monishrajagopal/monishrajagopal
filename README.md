@@ -25,7 +25,12 @@
 Technology Program & Delivery Leader with **13+ years of experience** delivering enterprise-scale transformations across **AI, GenAI, SAP, Contact Centre, eCommerce, POS, Cloud and DevOps ecosystems**.
 
 Experienced leading **$20M+ transformation programs**, managing **100+ cross-functional resources**, driving AI adoption, and delivering measurable business outcomes through Agile and SAFe delivery models.
-
+/assets/header.svg
+/assets/footer.svg
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME" />
+</p>
 ---
 
 # 📊 Impact At A Glance
