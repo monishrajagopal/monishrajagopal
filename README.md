@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="./assets/header.svg" alt="Monish Rajagopal Header"/>
+<img width="100%" src="./assets/header.svg" alt="Monish Rajagopal Header"
 /assets/header.svg
-/assets/footer.svg
+/assets/footer.svg/>
 
 # Monish Rajagopal
 
